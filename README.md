@@ -1,1 +1,1 @@
-## Using Less with Bootstrap
+## Using Less + Coffeescript with Bootstrap
